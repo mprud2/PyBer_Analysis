@@ -30,19 +30,46 @@ Fig 1: Plot of PyBer Ride Sharing Data from 2019
 ### Measures of Central Tendency for Total Numer of Rides, Average Fares, and Total number of Drivers
 
 #### Ride Counts
-Urban: mean = 24.62, median = 24.0, mode = 22 (7 occurrences)
-Suburban: mean = 17.36, median = 17.0, mode = 17 (7 occurrences)
-Rural: mean = 6.94, median = 6.0, mode = 6 (5 occurrences)
+* Urban: 
+ * mean = 24.62 
+ * median = 24.0
+ * mode = 22 (7 occurrences)
+* Suburban: 
+ * mean = 17.36
+ * median = 17.0
+ * mode = 17 (7 occurrences)
+* Rural: 
+ * mean = 6.94 
+ * median = 6.0 
+ * mode = 6 (5 occurrences)
 
 #### Average Fare
-Urban: mean = $24.53, median = $24.64, mode = $22.86 (5 occurrences)
-Suburban: mean = $30.97, median = %30.75, mode = $17.99 (3 occurrences)
-Rural: mean = $34.62, median = $37.05, mode = $37.05 (2 occurrences) 
+* Urban: 
+ * mean = $24.53 
+ * median = $24.64 
+ * mode = $22.86 (5 occurrences)
+* Suburban: 
+ * mean = $30.97
+ * median = %30.75
+ * mode = $17.99 (3 occurrences)
+* Rural: 
+ * mean = $34.62
+ * median = $37.05
+ * mode = $37.05 (2 occurrences) 
 
 #### Number of Drivers
-Urban: mean = 36.68, median = 37.0, mode = 39 (86 occurrences)
-Suburban: mean = 13.71, median = 16.0, mode = 20 (79 occurrences)
-Rural: mean = 4.3, median = 4.0, mode = 1 (32 occurrences)
+* Urban: 
+ * mean = 36.68
+ * median = 37.0
+ * mode = 39 (86 occurrences)
+* Suburban: 
+ * mean = 13.71
+ * median = 16.0
+ * mode = 20 (79 occurrences)
+* Rural: 
+ * mean = 4.3
+ * median = 4.0
+ * mode = 1 (32 occurrences)
 
 
 Urban fare is only ~$6 cheaper than a Suburban fare ($25 vs $31) and only 
