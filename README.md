@@ -96,6 +96,7 @@ Rural:
 #### Percent of Total Fares
 ![Fig5](https://user-images.githubusercontent.com/104801614/174266861-771e7e24-3861-4e70-94a2-38f416232f72.png)
 
+
 #### Percent of Total Rides
 ![Fig6](https://user-images.githubusercontent.com/104801614/174266885-66ccb7bc-f684-4adc-b894-7ad01bb5d5c0.png)
 
@@ -103,5 +104,12 @@ Rural:
 ![Fig7](https://user-images.githubusercontent.com/104801614/174266912-97d3917a-4bc8-4845-a950-991d084ed6d3.png)
 
 
+### Total Fares by City Type
+![PyBer_fare_summary](https://user-images.githubusercontent.com/104801614/174274538-00699ced-b5dd-4eef-bc58-42b798d12ba5.png)
 
+## Summary
+After analyzing the data, it is clear that Urban cities are dominating the revenue results.  Nearly seven out of every eight PyBer drivers work in an Urban area.  Therefore, we would recommend that PyBer should consider recruiting more Suburban and Rural drivers to determine if their customers needs are being met in those locations.  It is possible that potential customers in those areas are not using PyBer because there are not enough PyBer drivers to meet their needs.
 
+It is also observable that there are a spike in total fare in the fourth week of February (see: "PyBer Fare Summary" Figure).  PyBer may want to ensure that there are more drivers available during that period to accommodate the surge in use.  
+
+Finally, PyBer may want to attempt to collect data on pick-up locations and destinations.  While a driver may be counted as an "Urban" driver, it is possible that a ride could start in an Urban location and end in a Rural one (or vice versa).  This kind of data collection will enable PyBer to make more educated decisions about where to use their drivers, or provide guidance to drivers ahead of time.
