@@ -23,6 +23,7 @@ Finally, we were asked to prepare an Executive Summary DataFrame as well as a vi
 
 The PyBer analysis found that fares in Urban city types are by-far-and-away the greatest contributer to PyBer's overall revenue, but also the biggest pool of drivers, most overall rides provided, and lowest average fare.  The facts that Urban rides were both the greatest contributor to revenue while simultaneously the lowest average fare may seem counterintuitive, but the average fare is outweighed by the sheer volumes of Urbadn rides (and drivers).  This can be observed in Fig.1, which plots the average fare against the total number of rides, with the size of the bubble being indicative of the number of drivers in each location.  
 ![Fig1](https://user-images.githubusercontent.com/104801614/174266780-56df83dd-da29-4727-8461-f81313d24844.png)
+
 Fig 1: Plot of PyBer Ride Sharing Data from 2019
 
 Urban fare is only ~$6 cheaper than a Suburban fare ($25 vs $31) and only 
