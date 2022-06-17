@@ -90,10 +90,18 @@ Rural:
 #### Driver County by City Type
 ![Fig4](https://user-images.githubusercontent.com/104801614/174266842-2fd13ac4-788c-41f1-9ce2-6d3d364ab830.png)
 
+
+### Pie Charts
+
+#### Percent of Total Fares
 ![Fig5](https://user-images.githubusercontent.com/104801614/174266861-771e7e24-3861-4e70-94a2-38f416232f72.png)
 
+#### Percent of Total Rides
 ![Fig6](https://user-images.githubusercontent.com/104801614/174266885-66ccb7bc-f684-4adc-b894-7ad01bb5d5c0.png)
 
+#### Percent of Total Drivers
 ![Fig7](https://user-images.githubusercontent.com/104801614/174266912-97d3917a-4bc8-4845-a950-991d084ed6d3.png)
 
-_fare_summary](https://user-images.githubusercontent.com/104801614/174265922-10c29905-8c88-40d5-ab98-d02896278cbe.png)
+
+
+
