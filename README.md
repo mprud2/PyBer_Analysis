@@ -45,6 +45,7 @@ Rural:
  * median = 6.0 
  * mode = 6 (5 occurrences)
 
+
 #### Average Fare
 Urban: 
  * mean = $24.53 
@@ -60,6 +61,7 @@ Rural:
  * mean = $34.62
  * median = $37.05
  * mode = $37.05 (2 occurrences) 
+
 
 #### Number of Drivers
 Urban: 
@@ -77,13 +79,15 @@ Rural:
  * median = 4.0
  * mode = 1 (32 occurrences)
 
+### Box-and Whisker Plots
 
-Urban fare is only ~$6 cheaper than a Suburban fare ($25 vs $31) and only 
-
+#### Number of Rides by City Type
 ![Fig2](https://user-images.githubusercontent.com/104801614/174266811-74491ef9-f2c3-4f7a-88a6-b957b4ca8be5.png)
 
+#### Ride Fare Data by City Type
 ![Fig3](https://user-images.githubusercontent.com/104801614/174266828-7df4ac22-a412-4e36-be9b-81927dbff4ac.png)
 
+#### Driver County by City Type
 ![Fig4](https://user-images.githubusercontent.com/104801614/174266842-2fd13ac4-788c-41f1-9ce2-6d3d364ab830.png)
 
 ![Fig5](https://user-images.githubusercontent.com/104801614/174266861-771e7e24-3861-4e70-94a2-38f416232f72.png)
