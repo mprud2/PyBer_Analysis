@@ -34,10 +34,12 @@ Urban:
  * mean = 24.62 
  * median = 24.0
  * mode = 22 (7 occurrences)
+ 
 Suburban: 
  * mean = 17.36
  * median = 17.0
  * mode = 17 (7 occurrences)
+ 
 Rural: 
  * mean = 6.94 
  * median = 6.0 
@@ -48,10 +50,12 @@ Urban:
  * mean = $24.53 
  * median = $24.64 
  * mode = $22.86 (5 occurrences)
+ 
 Suburban: 
  * mean = $30.97
  * median = %30.75
  * mode = $17.99 (3 occurrences)
+ 
 Rural: 
  * mean = $34.62
  * median = $37.05
@@ -62,10 +66,12 @@ Urban:
  * mean = 36.68
  * median = 37.0
  * mode = 39 (86 occurrences)
+ 
 Suburban: 
  * mean = 13.71
  * median = 16.0
  * mode = 20 (79 occurrences)
+ 
 Rural: 
  * mean = 4.3
  * median = 4.0
