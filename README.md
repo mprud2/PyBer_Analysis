@@ -5,9 +5,9 @@ Module 5: Matplotlip, SciPy, and NumPy
 ## Overview
 * Create a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural.
 * Determine the mean, median, and mode for the following:
-  * The total number of rides for each city type.
-  * The average fares for each city type.
-  * The total number of drivers for each city type.
+   * The total number of rides for each city type.
+   * The average fares for each city type.
+   * The total number of drivers for each city type.
 * Create box-and-whisker plots that visualize each of the following to determine if there are any outliers:
   * The number of rides for each city type.
   * The fares for each city type.
@@ -30,43 +30,43 @@ Fig 1: Plot of PyBer Ride Sharing Data from 2019
 ### Measures of Central Tendency for Total Numer of Rides, Average Fares, and Total number of Drivers
 
 #### Ride Counts
-* Urban: 
+Urban: 
  * mean = 24.62 
  * median = 24.0
  * mode = 22 (7 occurrences)
-* Suburban: 
+Suburban: 
  * mean = 17.36
  * median = 17.0
  * mode = 17 (7 occurrences)
-* Rural: 
+Rural: 
  * mean = 6.94 
  * median = 6.0 
  * mode = 6 (5 occurrences)
 
 #### Average Fare
-* Urban: 
+Urban: 
  * mean = $24.53 
  * median = $24.64 
  * mode = $22.86 (5 occurrences)
-* Suburban: 
+Suburban: 
  * mean = $30.97
  * median = %30.75
  * mode = $17.99 (3 occurrences)
-* Rural: 
+Rural: 
  * mean = $34.62
  * median = $37.05
  * mode = $37.05 (2 occurrences) 
 
 #### Number of Drivers
-* Urban: 
+Urban: 
  * mean = 36.68
  * median = 37.0
  * mode = 39 (86 occurrences)
-* Suburban: 
+Suburban: 
  * mean = 13.71
  * median = 16.0
  * mode = 20 (79 occurrences)
-* Rural: 
+Rural: 
  * mean = 4.3
  * median = 4.0
  * mode = 1 (32 occurrences)
